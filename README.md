@@ -1,30 +1,6 @@
 # git-learning-sandbox
 repository made just to demonstrate the ins and outs of git and github.
 
-here are some examples of markdown
+## About
 
-- bulleted list
-- another bullet
-
-* also bullets
-
-## header 2
-### header 3
-#### header 4
-
-~~strikethrough~~
-**bold**
-**bold with _italic_ inside**
-*** super important stuff here ***
-
-
-> :warning: <- that is an emoji and this is a quote
-
-here is some code quote markdown
-
-```sh
-cd yup
-ls nope
-file | grep "show me"
-```
-
+Just in an effort to improve my own understanding of a fairly complex and powerful tool that is now ubiquitous amongst developers, to be a more effective developer and learn about the challenges to be overcome in versioning and also grasp the complex ideas behind the relatively simple CLI interface. 
